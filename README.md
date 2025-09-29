@@ -62,8 +62,6 @@ python ascii_player.py "demo.mp4" --fit-terminal --fps-cap 24
 > Tip: On Windows PowerShell, wrap paths with spaces in quotes.  
 > Stop playback with **Ctrl+C**.
 
-##  Quick test (sample video)
-If you need a tiny test video, you can generate one with `ffmpeg`:
 
 ```bash
 # 2-second color gradient test clip (requires ffmpeg)
@@ -81,7 +79,7 @@ python ascii_player.py test.mp4 --fit-terminal
 
 ```
 .
-├── ascii_player.py        # main script (put your file here)
+├── ascii_player.py        # main script 
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
