@@ -11,7 +11,7 @@ https://github.com/Ken70-afk/Video-to-ascii-art
 - Fit‑to‑terminal mode or fixed width
 - Optional inversion and multiple character sets
 - Vectorized NumPy mapping for speed
-- Clean, typed, and documented Python code
+
 
 ## Requirements
 - Python 3.9+ (tested with 3.13)
