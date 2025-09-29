@@ -2,7 +2,7 @@
 
 Render any video **in your terminal** as animated ASCII art — cross‑platform, fast, and easy to use.
 
-https://github.com/your-username/ASCII-Video-Player (replace with your repo URL)
+https://github.com/Ken70-afk/Video-to-ascii-art 
 
 ## Features
 - Cross‑platform (Windows, macOS, Linux)
