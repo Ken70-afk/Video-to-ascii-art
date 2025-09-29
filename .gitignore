@@ -1,0 +1,26 @@
+# Ignoring video files
+# Ignore common video file formats
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+*.mpeg
+*.mpg
+*.m4v
+*.3gp
+*.3g2
+*.vob
+*.ogv
+*.ts
+*.mts
+*.m2ts
+*.divx
+*.xvid
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
